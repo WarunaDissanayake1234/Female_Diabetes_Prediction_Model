@@ -17,7 +17,7 @@ This project utilizes Support Vector Machine (SVM) as the predictive model. The 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/Female_Diabetes_Prediction_Model.git
+   https://github.com/WarunaDissanayake1234/Female_Diabetes_Prediction_Model.git
    ```
 
 2. **Install Dependencies:**
